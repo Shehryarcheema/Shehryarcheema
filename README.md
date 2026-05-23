@@ -16,7 +16,7 @@
   <a href=":contentReference[oaicite:1]{index=1}">
     <img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white" />
   </a>
-  <b>GitHub:</b> your-github-username
+  <b>GitHub:</b> Shehryarcheema
 
   <br><br>
 
