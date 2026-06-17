@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 💫 About Me
 🤖 I’m currently working on<br>Machine Learning, Deep Learning, and AI-powered research projects.<br><br>🤝 I’m looking to collaborate on<br>Artificial Intelligence, Computer Vision, and Data Science projects.<br><br>🛠️ I’m looking for help with<br>Advanced Neural Networks, Model Optimization, and Research-based AI systems.<br><br>🌱 I’m currently learning<br>Deep Learning, Natural Language Processing (NLP), and Generative AI.<br><br>💬 Ask me about<br>Python, Machine Learning, AI models, Data Analysis, and Deep Learning.<br><br>⚡ Fun fact<br>I enjoy turning real-world problems into intelligent AI solutions through data and machine learning.<br>
 
 
