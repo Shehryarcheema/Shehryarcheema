@@ -6,16 +6,12 @@
 
 <p align="left">
 
-  <a href=":contentReference[oaicite:0]{index=0}">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" />
-  </a>
+  <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" />
   <b>LinkedIn:</b> shehryar-52b986335
 
   <br><br>
 
-  <a href=":contentReference[oaicite:1]{index=1}">
-    <img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white" />
-  </a>
+  <img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white" />
   <b>GitHub:</b> Shehryarcheema
 
   <br><br>
